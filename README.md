@@ -2,7 +2,7 @@
 
 Este proyecto permite clasificar automáticamente imágenes en carpetas según su nombre de archivo. Es útil cuando se manejan conjuntos grandes de imágenes que siguen una convención de nombres estructurada (por ejemplo: `clase_imagen_001.jpg`).
 
-## **Objetivo****
+## **Objetivo**
 
 Organizar un conjunto de imágenes en subcarpetas correspondientes a su categoría, extraída del nombre del archivo.
 
